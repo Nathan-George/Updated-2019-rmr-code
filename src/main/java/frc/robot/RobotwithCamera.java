@@ -16,7 +16,7 @@ import edu.wpi.cscore.UsbCamera;
 import edu.wpi.cscore.CvSource;
 
 
-public class Robot extends TimedRobot {
+public class RobotwithCamera extends TimedRobot {
 
   //camera init
   SerialPort cam;
